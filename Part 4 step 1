@@ -1,4 +1,7 @@
 # UNNC-F22-ABEE1025-Group-13-
+2023-1-26
+Author: Ruohan Liu
+
 U-value calculator
 	Background: Used to calculate the thermal insulation performance of building materials.
 	Motivation: The U-value formula is relatively complicated, and the calculator can simplify the steps to get the answer directly.
@@ -7,4 +10,4 @@ U-value calculator
 	Main formula: U=1/(R_1+R_2+⋯+R_n)=1/(d_1/k_1 +d_2/k_2 +⋯+d_n/k_n)
 
 	Products in market:  U值玻璃计算器  开发者: 来自海纳搜索
-Available at: https://www.qimai.cn/andapp/shelves/appid/331485
+        Available at: https://www.qimai.cn/andapp/shelves/appid/331485
