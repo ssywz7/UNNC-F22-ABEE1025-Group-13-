@@ -4,7 +4,7 @@ Author: Ruohan Liu
 U-value calculator for walls
 	Background: Used to calculate the thermal insulation performance of walls.
 	Motivation: The U-value formula is relatively complicated, and the calculator can simplify the steps to get the answer directly.
-	Key function: Enter thermal conductivity and thickness of materials of each layer to obtain the wall’s thermal conductivity.
+	Key function: Enter thermal conductivity and thickness of materials of each layer (respectively) to obtain the wall’s thermal conductivity.
 	Basis: R=d/k (k is thermal conductivity and d is thickness)
 	Main formula: U=1/(R_1+R_2+⋯+R_n )=1/(d_1/k_1 +d_2/k_2 +⋯+d_n/k_n )
 
